@@ -10,5 +10,9 @@
   {
     "package": "ftExtra",
     "oncran": true
+  },
+  {
+    "package": "minidown",
+    "oncran": true
   }
 ]
