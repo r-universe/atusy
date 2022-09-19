@@ -18,8 +18,3 @@
 	url = https://github.com/atusy/ftextra
 	shallow = true
 	registered = true
-[submodule "minidown"]
-	path = minidown
-	url = https://github.com/atusy/minidown
-	shallow = true
-	registered = true
