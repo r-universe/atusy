@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "minidown"]
-	path = minidown
-	url = https://github.com/atusy/minidown
-	shallow = true
-	registered = true
-[submodule "ftExtra"]
-	path = ftExtra
-	url = https://github.com/atusy/ftextra
-	shallow = true
-	registered = true
 [submodule "chunkhooks"]
 	path = chunkhooks
 	url = https://github.com/atusy/chunkhooks
@@ -21,5 +11,15 @@
 [submodule "felp"]
 	path = felp
 	url = https://github.com/atusy/felp
+	shallow = true
+	registered = true
+[submodule "ftExtra"]
+	path = ftExtra
+	url = https://github.com/atusy/ftextra
+	shallow = true
+	registered = true
+[submodule "minidown"]
+	path = minidown
+	url = https://github.com/atusy/minidown
 	shallow = true
 	registered = true

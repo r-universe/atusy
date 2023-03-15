@@ -1,6 +1,10 @@
 [
   {
-    "package": "minidown",
+    "package": "chunkhooks",
+    "oncran": true
+  },
+  {
+    "package": "felp",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "chunkhooks",
-    "oncran": true
-  },
-  {
-    "package": "felp",
+    "package": "minidown",
     "oncran": true
   }
 ]
